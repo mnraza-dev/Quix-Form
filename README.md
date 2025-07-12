@@ -38,7 +38,7 @@ git clone https://github.com/mnraza-dev/quixform.git
 cd quixform
 npm install
 npm run dev
-
+```
 
 # 🤝 Contributing
 ```bash 
@@ -46,6 +46,6 @@ npm run dev
 git checkout -b feature/my-feature
 git commit -m "Added my feature"
 git push origin feature/my-feature
-
+```
 ---
 ## Built with ❤️ to help developers ship forms faster without compromising on control or customization.
