@@ -48,4 +48,4 @@ git commit -m "Added my feature"
 git push origin feature/my-feature
 ```
 ---
-## Built with ❤️ to help developers ship forms faster without compromising on control or customization.
+### Built with ❤️ to help developers ship forms faster without compromising on control or customization.
